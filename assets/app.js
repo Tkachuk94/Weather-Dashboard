@@ -1,4 +1,6 @@
-// Set global variables, including Open Weather Maps API Key
+
+window.onload = function(){
+    // Set global variables, including Open Weather Maps API Key
 var owmAPI = "9c97d0b5569201dfcde48e6e21ef18be";
 var currentCity = "";
 var lastCity = "";
@@ -207,3 +209,5 @@ renderCities();
 
 // Get the current conditions (which also calls the five day forecast)
 getCurrentConditions();
+
+};
