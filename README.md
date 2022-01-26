@@ -4,6 +4,6 @@ A simple weather dashboard using OpenWeather API to retrieve weather data for ci
 
 Uses localstorage to store any cities that have been previously searched for to quickly retrieve information.
 
-![Image of website](https://github.com/Tkachuk94/Weather-dashoard/blob/main/assets/images/Weatherimage.png)
+![Image of website](https://github.com/Tkachuk94/Weather-Dashboard/blob/main/assets/images/WeatherImage.png)
 
-https://tkachuk94.github.io/weather-dashbboard/
+https://tkachuk94.github.io/Weather-Dashboard/
