@@ -59,14 +59,20 @@
 /* UV coloring scheme for UV display */
 .uv-favorable {
   border-radius: 5px;
+  background-color: green;
+  color: black;
 }
 
 .uv-moderate {
   border-radius: 5px;
+  background-color: yellow;
+  color: black;
 }
 
 .uv-severe {
   border-radius: 5px;
+  background-color: red;
+  color: black;
 }
 
 /* Media queries */
